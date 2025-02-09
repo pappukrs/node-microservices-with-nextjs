@@ -11,6 +11,15 @@
 /node-microservices/order-service/pacakge-lock.json
 
 
+/node-microservices/payment-service/node_modules
+/node-microservices/payment-service/pacakge-lock.json
+
+
+
+/node-microservices/notification-service/node_modules
+/node-microservices/notification-service/pacakge-lock.json
+
+
 
 # Ignore node_modules directory
 /node_modules
