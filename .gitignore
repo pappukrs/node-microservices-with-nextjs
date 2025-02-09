@@ -7,6 +7,9 @@
 /node-microservices/product-service/node_modules
 /node-microservices/product-service/pacakge-lock.json
 
+/node-microservices/order-service/node_modules
+/node-microservices/order-service/pacakge-lock.json
+
 
 
 # Ignore node_modules directory
