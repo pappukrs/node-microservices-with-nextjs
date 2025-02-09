@@ -1,0 +1,17 @@
+/node-microservices/api-gateway/node_modules
+/node-microservices/api-gateway/pacakge-lock.json
+
+/node-microservices/auth-service/node_modules
+/node-microservices/auth-service/pacakge-lock.json
+
+/node-microservices/product-service/node_modules
+/node-microservices/product-service/pacakge-lock.json
+
+
+
+# Ignore node_modules directory
+/node_modules
+
+select_git_user.sh
+
+web-app-nextjs

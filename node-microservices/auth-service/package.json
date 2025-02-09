@@ -1,0 +1,19 @@
+{
+    "name": "auth-service",
+    "version": "1.0.0",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js"
+    },
+    "dependencies": {
+        "auth-service": "file:",
+        "bcrypt": "^5.0.1",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "jsonwebtoken": "^9.0.0",
+        "mongoose": "^7.0.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    }
+}
